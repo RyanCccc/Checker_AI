@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\Ryan\5checker\5checker\bin\Debug\5checker.exe
+C:\Users\Student\Desktop\Ryan\5checker\5checker\bin\Debug\5checker.pdb
+C:\Users\Student\Desktop\Ryan\5checker\5checker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Ryan\5checker\5checker\obj\Debug\_5checker.Checker.resources
+C:\Users\Student\Desktop\Ryan\5checker\5checker\obj\Debug\_5checker.Properties.Resources.resources
+C:\Users\Student\Desktop\Ryan\5checker\5checker\obj\Debug\5checker.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Ryan\5checker\5checker\obj\Debug\5checker.exe
+C:\Users\Student\Desktop\Ryan\5checker\5checker\obj\Debug\5checker.pdb
